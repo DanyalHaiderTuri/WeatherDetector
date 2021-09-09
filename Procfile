@@ -1,1 +1,1 @@
-web: gunicorn dep:weatherDetector
+web: gunicorn weatherDetector.wsgi
